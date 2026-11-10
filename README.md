@@ -1,4 +1,4 @@
-# networking-projects
+
 My practical networking and cybersecurity projects, technical documentation and learning journey.
 
 # Networking & Cybersecurity Portfolio
@@ -7,14 +7,21 @@ I am currently a Networking and Cybersecurity student studying at Auckland Unive
 
 This repository documents my technical development through practical projects, network configurations, troubleshooting exercises and documentation.
 
+## Technical Interests
+Network Engineering and Infrastructure
+Routing and Switching
+Network Security
+Systems Administration
+Network Traffic Analysis
+
 ## Technical Skills
 
-| Networking | TCP/IP, IPv4, Subnetting, VLANs, Routing |
-| Network Analysis | Wireshark, Nmap |
-| Network Simulation | Cisco Packet Tracer |
-| Operating Systems | Linux, Ubuntu, macOS |
-| Security | Firewalls, ACLs, Network Segmentation |
-| Version Control | Git, GitHub |
+Networking:	TCP/IP, IPv4, Subnetting, VLANs, Routing
+Network Analysis:	Wireshark, Nmap
+Network Simulation:	Cisco Packet Tracer
+Operating Systems:	Linux, Ubuntu, macOS
+Security:	Firewalls, ACLs, Network Segmentation
+Version Control:	Git, GitHub
 
 ## Featured Projects
 
