@@ -16,12 +16,13 @@ Network Traffic Analysis
 
 ## Technical Skills
 
-Networking:	TCP/IP, IPv4, Subnetting, VLANs, Routing
-Network Analysis:	Wireshark, Nmap
-Network Simulation:	Cisco Packet Tracer
-Operating Systems:	Linux, Ubuntu, macOS
-Security:	Firewalls, ACLs, Network Segmentation
-Version Control:	Git, GitHub
+| Networking | TCP/IP, IPv4, Subnetting, VLANs, Routing |
+| Network Analysis | Wireshark, Nmap |
+| Network Simulation | Cisco Packet Tracer |
+| Operating Systems | Linux, Ubuntu, macOS |
+| Security | Firewalls, ACLs, Network Segmentation |
+| Version Control | Git, GitHub
+
 
 ## Featured Projects
 
