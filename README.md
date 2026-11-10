@@ -14,14 +14,18 @@ Network Security
 Systems Administration
 Network Traffic Analysis
 
+
 ## Technical Skills
 
+| Category | Technologies and Concepts |
+|---|---|
 | Networking | TCP/IP, IPv4, Subnetting, VLANs, Routing |
 | Network Analysis | Wireshark, Nmap |
 | Network Simulation | Cisco Packet Tracer |
 | Operating Systems | Linux, Ubuntu, macOS |
 | Security | Firewalls, ACLs, Network Segmentation |
-| Version Control | Git, GitHub
+| Version Control | Git, GitHub |
+
 
 
 ## Featured Projects
