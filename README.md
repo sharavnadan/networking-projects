@@ -8,10 +8,10 @@ I am currently a Networking and Cybersecurity student studying at Auckland Unive
 This repository documents my technical development through practical projects, network configurations, troubleshooting exercises and documentation.
 
 ## Technical Interests
-Network Engineering and Infrastructure
-Routing and Switching
-Network Security
-Systems Administration
+Network Engineering and Infrastructure,
+ Routing and Switching,
+ Network Security,
+Systems Administration, and, 
 Network Traffic Analysis
 
 
